@@ -42,3 +42,9 @@ Tampilan sederhana dari toko online **Kurma Susu**, dibuat dengan HTML + CSS + J
 ├── /aset
 │   ├── style.css
 │   └── script.js
+
+📌 Catatan
+Proyek ini bersifat statis tanpa backend. Untuk integrasi ke sistem belanja online yang sesungguhnya, perlu ditambahkan fitur backend dan database.
+
+👨‍💻 Dibuat oleh
+Fachry Ginanjar – buat belajar dan seru-seruan frontend 😄
