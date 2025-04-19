@@ -15,22 +15,22 @@ Tampilan sederhana dari toko online **Kurma Susu**, dibuat dengan HTML + CSS + J
 ## 🖼️ Demo Tampilan
 
 ### 🧩 Bagian 1 - Header dan Navigasi
-![Bagian1](https://github.com/user-attachments/asset1.png)
+![Bagian1](https://github.com/user-attachments/assets/11df95f6-8be0-44f4-9a87-e72ce08c33d9)
 
 ### 🎯 Bagian 2 - Banner Promo
-![Bagian2](https://github.com/user-attachments/asset2.png)
+![Bagian2](https://github.com/user-attachments/assets/6175acf3-713f-44f3-89a3-350d486aafb6)
 
 ### 🛒 Bagian 3 - Katalog Produk
-![Bagian3](https://github.com/user-attachments/asset3.png)
+![Bagian3](https://github.com/user-attachments/assets/80bd27e1-b1d1-4448-ade7-50c3bc5e3c0a)
 
 ### 💡 Bagian 4 - Detail Produk
-![Bagian4](https://github.com/user-attachments/asset4.png)
+![Bagian4](https://github.com/user-attachments/assets/eeca5eaf-59a6-4ade-bbc4-58975b4e8204)
 
 ### 📦 Bagian 5 - Keranjang Belanja
-![Bagian5](https://github.com/user-attachments/asset5.png)
+![Bagian5](https://github.com/user-attachments/assets/0f23b4cc-c52f-4f74-9a4d-981e867ca166)
 
 ### 📞 Bagian 6 - Footer & Kontak
-![Bagian6](https://github.com/user-attachments/asset6.png)
+![Bagian6](https://github.com/user-attachments/assets/14e93778-79ce-4eb0-9dcf-93af985a43c0)
 
 ---
 
